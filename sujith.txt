@@ -1,4 +1,3 @@
-10
-20
-30
-40
+[master 512c272] this is dummy public repository
+ 1 file changed, 4 insertions(+)
+ create mode 100644 sujith.txt

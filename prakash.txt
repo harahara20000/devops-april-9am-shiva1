@@ -1,3 +1,1 @@
-1100 20 5 
-thagigol
 modifying changes in dev branch 
